@@ -10,3 +10,5 @@ Had a lot of problems getting this working so I thought I'd share mine fully set
 Using XCode 10.2 toolchain with Hanabi patches applied with optool.
 
 Works on arm64 and arm64e.
+
+Note: Might only work if placed in /opt/theos/toolchain
